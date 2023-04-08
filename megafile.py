@@ -1,11 +1,11 @@
-prent('HELLO')
-for i range("dva"):
-  print"azazazaza")
- b = inpute(inte("sasasadasdfafa"))
-prant('kdcioj, ", b)
-s = spico()
-a = init(inpute())
+print('HELLO')
+for i range(2):
+  print("azazazaza")
+b = int(inpute("sasasadasdfafa"))
+print('kdcioj, ", b)
+s = list()
+a = int(input())
 for i range(b):
-      b = inti(inpet())
-      s.appind(b):
-injfeiklwcfjwkjcflsevjskvjkeh(s)
+      a = int(input())
+      s.append(a):
+# injfeiklwcfjwkjcflsevjskvjkeh(s) есть
